@@ -5,6 +5,8 @@ VSCodeの拡張機能Folder & Files Text Counterのコード全体です。
 ## 機能
 
 VSCodeのエクスプローラー内のフォルダ、または複数のテキストファイルを選択し、右クリックしてこの拡張機能を実行するとフォルダ内テキストファイルまたは選択ファイル全体の文字数を合計した数を右下のメッセージボックスに表示します。
+使用イメージは下記のリンクを参照してください。
+https://time-bird.github.io/hp/apps/02_fftc01.html
 
 ## Release Notes
 
